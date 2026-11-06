@@ -240,6 +240,7 @@ FINALIZAR PELO WHATSAPP
 <button class="whats" onclick="falarWhatsApp()">Falar no WhatsApp</button>
 
 <script>
+const WHATSAPP = "5587996682323";
 let carrinho = [];
 
 const estoqueShort = {
